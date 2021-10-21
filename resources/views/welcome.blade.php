@@ -50,7 +50,7 @@
           <br><br><br>
         
         <h2 style="text-align: center;">International Workshop on Presentation Skills for an Academic Topic</h2>
-        <h3 style="text-align: center;">23 November 2021</h3>
+        <h3 style="text-align: center;">23<sup>th</sup> of November, 2021</h3>
         <div style="width: 95%; display: flex; justify-content:center; margin:auto;">
             <div>  
                 <p>This international workshop on presentation skills of an academic topic is organized in the frame of ACeSYRI<sup>1</sup> and ICECCO<sup>2</sup>. In this workshop, participants will work on preparing and making a presentation for an academic paper. That will help them to rehearse on their conference presentation to be made in ICECCO’21 as well as on any kind of scientific presentation. The participants will have opportunities to attend the lectures and get feedback for their performances from local and international experts.
@@ -68,7 +68,7 @@
                 <strong>Because the workshop will be held online, it is necessary to register by using <a href="">this link</a>.</strong>
                 <br><br><br>
                 <h4>Format</h4>
-                <p>The participants are supposed to prepare a presentation with 8-15 slides and submit it until 13<sup>th</sup> November. During the workshop, they will have the opportunity to edit and refine the slides before making the presentation. Each work is going to be evaluated by a committee formed by local and international experts. The successful works will be awarded in different categories such as the best presentation, the best scientific work, etc.
+                <p>The participants are supposed to prepare a presentation with 8-15 slides and submit it until 13<sup>th</sup> of November. During the workshop, they will have the opportunity to edit and refine the slides before making the presentation. Each work is going to be evaluated by a committee formed by local and international experts. The successful works will be awarded in different categories such as the best presentation, the best scientific work, etc.
                 </p>
 
                 <a name="topics"></a>
