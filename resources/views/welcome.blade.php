@@ -65,7 +65,9 @@
 
                     </li>
                 </ol>
-                <strong>Because the workshop will be held online, it is necessary to register by using <a href="">this link</a>.</strong>
+                <strong>Because the workshop will be held online, it is necessary to register by using <a href="
+https://docs.google.com/forms/d/e/1FAIpQLSd2mUyBI2LR_bsdnBZ5awBisqOanHNAcKhHctUxU9I38ugefA/viewform?usp=sf_link
+">this link</a>.</strong>
                 <br><br><br>
                 <h4>Format</h4>
                 <p>The participants are supposed to prepare a presentation with 8-15 slides and submit it until 13<sup>th</sup> of November. During the workshop, they will have the opportunity to edit and refine the slides before making the presentation. Each work is going to be evaluated by a committee formed by local and international experts. The successful works will be awarded in different categories such as the best presentation, the best scientific work, etc.
